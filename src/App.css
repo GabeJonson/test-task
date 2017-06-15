@@ -1,0 +1,16 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+input {
+  border: 1px solid #333;
+}
+
+#next-step {
+  pointer-events: none;
+}
+
+li {
+  list-style: none;
+}
